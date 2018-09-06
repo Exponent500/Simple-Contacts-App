@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "firstName": "Reuven",
+      "lastName": "Kishon",
+      "company": "Mr.s",
+      "personalEmail": "reuvenkishon@gmail.com",
+      "workEmail": "reuvenkishon@gmail.com",
+      "homeAddress": "4414 Alabama Street",
+      "twitter": "Reuven - Kishon",
+      "facebook": "Reuven - Kishon",
+      "instagram": "Reuven - Kishon",
+      "id": 2
+    },
+    {
+      "firstName": "Kimberly",
+      "lastName": "Tomicich",
+      "company": "1990",
+      "personalEmail": "kimberlytomicich@gmail.com",
+      "workEmail": "kimberlytomicich@gmail.com",
+      "mobileNumber": "8583959266",
+      "homeAddress": "4414 Alabama Street",
+      "twitter": "Kimberly Tomicich",
+      "facebook": "Kimberly Tomicich",
+      "instagram": "Kimberly Tomicich",
+      "id": 3
+    }
+  ]
+}
